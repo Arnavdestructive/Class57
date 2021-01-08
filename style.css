@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+#home{
+    background:linear-gradient(#05f5f1 20%,#b905f5 50%);
+}
+#home h1{
+    font-size: 75px;
+    color:orangered;  
+}
+#home h2{
+    font-size: 60px;
+    color :chocolate;
+}
+img{
+    border-radius: 50%;
+    border:5px solid black;
+    
+}
+#bio h1{
+    font-size: 50px;
+}
+#bio p{
+    font-family: serif;
+    font-size :30px;
+    word-spacing: 5px;
+}
